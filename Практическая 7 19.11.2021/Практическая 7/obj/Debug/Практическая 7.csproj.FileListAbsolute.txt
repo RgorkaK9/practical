@@ -1,0 +1,11 @@
+C:\Users\Егорка\source\repos\Практическая 7\Практическая 7\bin\Debug\Практическая 7.exe.config
+C:\Users\Егорка\source\repos\Практическая 7\Практическая 7\bin\Debug\Практическая 7.exe
+C:\Users\Егорка\source\repos\Практическая 7\Практическая 7\bin\Debug\Практическая 7.pdb
+C:\Users\Егорка\source\repos\Практическая 7\Практическая 7\obj\Debug\Практическая 7.csprojAssemblyReference.cache
+C:\Users\Егорка\source\repos\Практическая 7\Практическая 7\obj\Debug\Практическая_7.Form1.resources
+C:\Users\Егорка\source\repos\Практическая 7\Практическая 7\obj\Debug\Практическая_7.Properties.Resources.resources
+C:\Users\Егорка\source\repos\Практическая 7\Практическая 7\obj\Debug\Практическая 7.csproj.GenerateResource.cache
+C:\Users\Егорка\source\repos\Практическая 7\Практическая 7\obj\Debug\Практическая 7.csproj.CoreCompileInputs.cache
+C:\Users\Егорка\source\repos\Практическая 7\Практическая 7\obj\Debug\Практическая 7.exe
+C:\Users\Егорка\source\repos\Практическая 7\Практическая 7\obj\Debug\Практическая 7.pdb
+C:\Users\Егорка\source\repos\Практическая 7\Практическая 7\obj\Debug\Практическая_7.Form2.resources
