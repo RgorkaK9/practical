@@ -1,0 +1,11 @@
+C:\Users\Егорка\source\repos\Численные методы Задание 2 v2\Численные методы Задание 2 v2\bin\Debug\Численные методы Задание 2 v2.exe.config
+C:\Users\Егорка\source\repos\Численные методы Задание 2 v2\Численные методы Задание 2 v2\bin\Debug\Численные методы Задание 2 v2.exe
+C:\Users\Егорка\source\repos\Численные методы Задание 2 v2\Численные методы Задание 2 v2\bin\Debug\Численные методы Задание 2 v2.pdb
+C:\Users\Егорка\source\repos\Численные методы Задание 2 v2\Численные методы Задание 2 v2\obj\Debug\Численные методы Задание 2 v2.csprojAssemblyReference.cache
+C:\Users\Егорка\source\repos\Численные методы Задание 2 v2\Численные методы Задание 2 v2\obj\Debug\Численные_методы_Задание_2_v2.Form1.resources
+C:\Users\Егорка\source\repos\Численные методы Задание 2 v2\Численные методы Задание 2 v2\obj\Debug\Численные_методы_Задание_2_v2.Properties.Resources.resources
+C:\Users\Егорка\source\repos\Численные методы Задание 2 v2\Численные методы Задание 2 v2\obj\Debug\Численные методы Задание 2 v2.csproj.GenerateResource.cache
+C:\Users\Егорка\source\repos\Численные методы Задание 2 v2\Численные методы Задание 2 v2\obj\Debug\Численные методы Задание 2 v2.csproj.CoreCompileInputs.cache
+C:\Users\Егорка\source\repos\Численные методы Задание 2 v2\Численные методы Задание 2 v2\obj\Debug\Численные методы Задание 2 v2.exe
+C:\Users\Егорка\source\repos\Численные методы Задание 2 v2\Численные методы Задание 2 v2\obj\Debug\Численные методы Задание 2 v2.pdb
+C:\Users\Егорка\source\repos\Численные методы Задание 2 v2\Численные методы Задание 2 v2\obj\Debug\Численные_методы_Задание_2_v2.Form2.resources

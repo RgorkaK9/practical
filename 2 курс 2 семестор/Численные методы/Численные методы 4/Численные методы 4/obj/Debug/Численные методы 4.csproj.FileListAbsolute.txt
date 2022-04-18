@@ -1,0 +1,10 @@
+C:\Users\Егорка\source\repos\Численные методы 4\Численные методы 4\bin\Debug\Численные методы 4.exe.config
+C:\Users\Егорка\source\repos\Численные методы 4\Численные методы 4\bin\Debug\Численные методы 4.exe
+C:\Users\Егорка\source\repos\Численные методы 4\Численные методы 4\bin\Debug\Численные методы 4.pdb
+C:\Users\Егорка\source\repos\Численные методы 4\Численные методы 4\obj\Debug\Численные методы 4.csprojAssemblyReference.cache
+C:\Users\Егорка\source\repos\Численные методы 4\Численные методы 4\obj\Debug\Численные_методы_4.Form1.resources
+C:\Users\Егорка\source\repos\Численные методы 4\Численные методы 4\obj\Debug\Численные_методы_4.Properties.Resources.resources
+C:\Users\Егорка\source\repos\Численные методы 4\Численные методы 4\obj\Debug\Численные методы 4.csproj.GenerateResource.cache
+C:\Users\Егорка\source\repos\Численные методы 4\Численные методы 4\obj\Debug\Численные методы 4.csproj.CoreCompileInputs.cache
+C:\Users\Егорка\source\repos\Численные методы 4\Численные методы 4\obj\Debug\Численные методы 4.exe
+C:\Users\Егорка\source\repos\Численные методы 4\Численные методы 4\obj\Debug\Численные методы 4.pdb

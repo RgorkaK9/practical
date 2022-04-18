@@ -1,0 +1,11 @@
+C:\Users\Егорка\source\repos\Practical3\Practical3\bin\Debug\Practical3.exe.config
+C:\Users\Егорка\source\repos\Practical3\Practical3\bin\Debug\Practical3.exe
+C:\Users\Егорка\source\repos\Practical3\Practical3\bin\Debug\Practical3.pdb
+C:\Users\Егорка\source\repos\Practical3\Practical3\obj\Debug\Practical3.csprojAssemblyReference.cache
+C:\Users\Егорка\source\repos\Practical3\Practical3\obj\Debug\Practical3.Form1.resources
+C:\Users\Егорка\source\repos\Practical3\Practical3\obj\Debug\Practical3.Properties.Resources.resources
+C:\Users\Егорка\source\repos\Practical3\Practical3\obj\Debug\Practical3.csproj.GenerateResource.cache
+C:\Users\Егорка\source\repos\Practical3\Practical3\obj\Debug\Practical3.csproj.CoreCompileInputs.cache
+C:\Users\Егорка\source\repos\Practical3\Practical3\obj\Debug\Practical3.exe
+C:\Users\Егорка\source\repos\Practical3\Practical3\obj\Debug\Practical3.pdb
+C:\Users\Егорка\source\repos\Practical3\Practical3\obj\Debug\Practical3.Form2.resources

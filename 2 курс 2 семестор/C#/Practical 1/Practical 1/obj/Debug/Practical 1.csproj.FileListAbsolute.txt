@@ -1,0 +1,10 @@
+C:\Users\Егорка\source\repos\Practical 1\Practical 1\bin\Debug\Practical 1.exe.config
+C:\Users\Егорка\source\repos\Practical 1\Practical 1\bin\Debug\Practical 1.exe
+C:\Users\Егорка\source\repos\Practical 1\Practical 1\bin\Debug\Practical 1.pdb
+C:\Users\Егорка\source\repos\Practical 1\Practical 1\obj\Debug\Practical 1.csprojAssemblyReference.cache
+C:\Users\Егорка\source\repos\Practical 1\Practical 1\obj\Debug\Practical_1.Form1.resources
+C:\Users\Егорка\source\repos\Practical 1\Practical 1\obj\Debug\Practical_1.Properties.Resources.resources
+C:\Users\Егорка\source\repos\Practical 1\Practical 1\obj\Debug\Practical 1.csproj.GenerateResource.cache
+C:\Users\Егорка\source\repos\Practical 1\Practical 1\obj\Debug\Practical 1.csproj.CoreCompileInputs.cache
+C:\Users\Егорка\source\repos\Practical 1\Practical 1\obj\Debug\Practical 1.exe
+C:\Users\Егорка\source\repos\Practical 1\Practical 1\obj\Debug\Practical 1.pdb

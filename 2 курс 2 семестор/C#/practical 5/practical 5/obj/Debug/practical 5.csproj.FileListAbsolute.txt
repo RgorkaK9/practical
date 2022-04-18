@@ -1,0 +1,13 @@
+C:\Users\Егорка\source\repos\practical 5\practical 5\bin\Debug\practical 5.exe.config
+C:\Users\Егорка\source\repos\practical 5\practical 5\bin\Debug\practical 5.exe
+C:\Users\Егорка\source\repos\practical 5\practical 5\bin\Debug\practical 5.pdb
+C:\Users\Егорка\source\repos\practical 5\practical 5\obj\Debug\practical 5.csprojAssemblyReference.cache
+C:\Users\Егорка\source\repos\practical 5\practical 5\obj\Debug\practical_5.Form1.resources
+C:\Users\Егорка\source\repos\practical 5\practical 5\obj\Debug\practical_5.Properties.Resources.resources
+C:\Users\Егорка\source\repos\practical 5\practical 5\obj\Debug\practical 5.csproj.GenerateResource.cache
+C:\Users\Егорка\source\repos\practical 5\practical 5\obj\Debug\practical 5.csproj.CoreCompileInputs.cache
+C:\Users\Егорка\source\repos\practical 5\practical 5\obj\Debug\practical 5.exe
+C:\Users\Егорка\source\repos\practical 5\practical 5\obj\Debug\practical 5.pdb
+C:\Users\Егорка\source\repos\practical 5\practical 5\obj\Debug\practical_5.Form2.resources
+C:\Users\Егорка\source\repos\practical 5\practical 5\obj\Debug\practical_5.Form3.resources
+C:\Users\Егорка\source\repos\practical 5\practical 5\obj\Debug\practical_5.Form4.resources
